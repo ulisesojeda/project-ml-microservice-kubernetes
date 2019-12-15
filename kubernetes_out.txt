@@ -1,0 +1,15 @@
+NAMESPACE     NAME                               READY   STATUS    RESTARTS   AGE
+default       prediction-app-79bc544876-bqdpf    1/1     Running   0          28m
+kube-system   coredns-6955765f44-n8q5h           1/1     Running   0          41m
+kube-system   coredns-6955765f44-zhfqt           1/1     Running   0          41m
+kube-system   etcd-minikube                      1/1     Running   0          41m
+kube-system   kube-addon-manager-minikube        1/1     Running   0          41m
+kube-system   kube-apiserver-minikube            1/1     Running   0          41m
+kube-system   kube-controller-manager-minikube   1/1     Running   0          41m
+kube-system   kube-proxy-524tg                   1/1     Running   0          41m
+kube-system   kube-scheduler-minikube            1/1     Running   0          41m
+kube-system   storage-provisioner                1/1     Running   0          41m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
